@@ -2,7 +2,7 @@
 
 This is my (Rob Underwood, a.k.a., @brooklynrob) book of interesting things I've learned along the way about computer science, software engineering, and "coding"
 
-Intended audience
+## Intended audience
 * Me
 * My kids
 * CS Hobbyists and Enthusiasts
@@ -10,7 +10,7 @@ Intended audience
 
 ## Chapters (Pages So Far)
 
-* [Dictionaries in a Functional Style](dictionaires_in_a_functional_style.md)
+* [Dictionaries in a Functional Style](dictionaries_in_a_functional_style.md)
 * [Reason 3, Reason 2, and OCaml for a simple web server](reason_ocaml_webserver.md)
 
 
