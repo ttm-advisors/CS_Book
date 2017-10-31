@@ -1,3 +1,5 @@
+# Dictionaries
+
 ## Define a custom type
 ```type dict_val = int * string;;```
 
